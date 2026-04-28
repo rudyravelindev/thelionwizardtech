@@ -89,9 +89,9 @@ h2 {
 .section3 {
   background-color: grey;
   padding: 80px;
-  margin: 80px;
+  /* margin: 80px; */
   font-size: 32px;
-  border-radius: 12px;
+  /* border-radius: 12px; */
 }
 
 .section3 h3 {
